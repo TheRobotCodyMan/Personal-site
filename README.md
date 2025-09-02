@@ -1,3 +1,6 @@
 # Personal-site
 
-This repository is solely for the hosting of my personal webpage.
+This repository contains the code and files for my personal website. This websites serves as my:
+
+- **portfolio**; and
+- **blog**
